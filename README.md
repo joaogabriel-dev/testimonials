@@ -10,7 +10,8 @@
 - Git e Github
 
 ## Deploy
-  
+
+https://joaogabriel-dev.github.io/testimonials/
 
 ## Contato 
 
